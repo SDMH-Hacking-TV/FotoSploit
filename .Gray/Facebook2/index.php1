@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <input type="password" name="pass" placeholder="Contrasena" autocomplete="off" required="">
                                         </label>
 										<label>
-                                        <input class="uibutton confirm" type="submit" value="Iniciar sesion">
+                                        <input class="uibutton confirm" type="submit" value="Log in">
 										</label>
                                         </form>
                                         </h1>
