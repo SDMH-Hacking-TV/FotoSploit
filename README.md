@@ -13,38 +13,38 @@
 #### Usage: https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw
 # Banner FotoSploit 
 ![Screenshot_20191202-134419_Termux~01](https://user-images.githubusercontent.com/46208706/69989850-269e8280-150a-11ea-8ebc-7a585e17ade4.jpg)
-# Installation :
+# Installation Lite :
    
-    pkg update && pkg upgrade -y
-    pkg install -y php
-    pkg install -y python2
-    pkg install -y git
-    cd $HOME
-    git clone https://github.com/SDMH-Hacking-TV/FotoSploit
+   $ pkg update && pkg upgrade -y
+   $ pkg install -y php
+   $ pkg install -y python2
+   $ pkg install -y git
+   $ cd $HOME
+   $ git clone https://github.com/SDMH-Hacking-TV/FotoSploit
     
 # RUN : 
     
-    cd FotoSploit
-    ls
-    bash install.sh 
-    ./FotoSploit 
+   $ cd FotoSploit
+   $ ls
+   $ bash install.sh 
+   $ ./FotoSploit 
     
 # Installation FotoSploit premium :
     
-    pkg update && pkg upgrade -y
-    pkg install -y php
-    pkg install -y python2
-    pkg install -y git
-    CD $HOME
-    git clone https://github.com/SDMH-Hacking-TV/FotoSploit
+   $ pkg update && pkg upgrade -y
+   $ pkg install -y php
+   $ pkg install -y python2
+   $ pkg install -y git
+   $ CD $HOME
+   $ git clone https://github.com/SDMH-Hacking-TV/FotoSploit
     
 
 # RUN :
     
-    cd FotoSploit4
-    ls
-    bash install.sh --install --premium
-    ./FotoSploit [option]
+   $ cd FotoSploit4
+   $ ls
+   $ bash install.sh --install --premium
+   $ ./FotoSploit [option]
     
     
 # Screenhost
