@@ -1,3 +1,5 @@
+# CopyRight 
+
 # FotoSploit
     FotoSploit es un exploit que ensambla la foto
     de nuestra víctima en un enlace falso {phishing}
@@ -8,7 +10,7 @@
     ubuntu
     parrot
     etc..
-#### Usage: https://youtu.be/sH15XKPVToA
+#### Usage: https://youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw
 # Banner FotoSploit 
 ![Screenshot_20191202-134419_Termux~01](https://user-images.githubusercontent.com/46208706/69989850-269e8280-150a-11ea-8ebc-7a585e17ade4.jpg)
 # Installation 
@@ -17,7 +19,7 @@
     pkg install -y python2
     pkg install -y git
     cd $HOME
-    git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
+    git clone https://github.com/SDMH-Hacking-TV/FotoSploit
     cd FotoSploit
     ls
     bash install.sh 
@@ -28,13 +30,12 @@
     pkg install -y python2
     pkg install -y git
     CD $HOME
-    git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
-    cd FotoSploit 
+    git clone https://github.com/SDMH-Hacking-TV/FotoSploit
+    cd FotoSploit4
     ls
     bash install.sh --install --premium
     ./FotoSploit [option]
-#### Installation FotoSploit premium 
-https://youtu.be/3dDCzze600I
+
     
 # Screenhost
 ![e](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
@@ -43,9 +44,7 @@ https://youtu.be/3dDCzze600I
      en messenger [facebook] no saca la foto de la víctima:(
      el link solo saca la foto en Whatzapp o en telegram u otro chat
      ok!
-#### Comunity : https://t.me/CesarGray : https://www.CesarHackGray.com : https://t.me/CesarHackGray
-#### Channel  : http://youtube.com/c/CésarHackGray_Y_Miickeyy : https://t.me/CesarHackGrayCanal
-.
+
 # Usage
     
       _____________________________________________________________________
@@ -126,30 +125,7 @@ https://youtu.be/3dDCzze600I
  ![Screenshot_20191202-165136_WhatsApp~01](https://user-images.githubusercontent.com/46208706/70001918-26ab7c00-1524-11ea-8b40-1c478ea276ec.jpg)
            
               
-              
-              
-     
- 
-              
-                      
-  
- 
- 
+# Help For
 
-   
-
-   
-   
-   
-   
-   
-   
-
-   
-
-
-
-
-
-
-
+*Joint To [ Facebook](https://web.facebook.com/groups/termux.help.bd)!*
+*Subscribe to [ Channel on YouTube](https://www.youtube.com/channel/UCWMSK5cTU1dNBt8LKcZdsCw)!*
