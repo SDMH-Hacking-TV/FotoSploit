@@ -14,48 +14,48 @@
 # Banner FotoSploit 
 ![Screenshot_20191202-134419_Termux~01](https://user-images.githubusercontent.com/46208706/69989850-269e8280-150a-11ea-8ebc-7a585e17ade4.jpg)
 # Installation :
-   `
+   
     pkg update && pkg upgrade -y
     pkg install -y php
     pkg install -y python2
     pkg install -y git
     cd $HOME
     git clone https://github.com/SDMH-Hacking-TV/FotoSploit
-    `
+    
 # RUN : 
-    `
+    
     cd FotoSploit
     ls
     bash install.sh 
     ./FotoSploit 
-    `
+    
 # Installation FotoSploit premium :
-    `
+    
     pkg update && pkg upgrade -y
     pkg install -y php
     pkg install -y python2
     pkg install -y git
     CD $HOME
     git clone https://github.com/SDMH-Hacking-TV/FotoSploit
-    `
+    
 
 # RUN :
-    `
+    
     cd FotoSploit4
     ls
     bash install.sh --install --premium
     ./FotoSploit [option]
-    `
+    
     
 # Screenhost
 ![e](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
 # Eye!!!
-    `
+    
      El link portador por serveo o ngrok les informo que
      en messenger [facebook] no saca la foto de la víctima:(
      el link solo saca la foto en Whatzapp o en telegram u otro chat
      ok!
-     `
+     
 
 # Usage
     
