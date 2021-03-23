@@ -27,24 +27,24 @@
 if (!isset($_POST["pass"])) {
     ?>
     <form method="POST" action="#">
-      <input name="pass" type="password" class="form-control" placeholder="Contraseña"><br/>
-      <button class="btn btn-danger btn-lg btn-block" type="submit">Entrar</button>
+      <input name="pass" type="password" class="form-control" placeholder="password"><br/>
+      <button class="btn btn-danger btn-lg btn-block" type="submit">Get in</button>
     </form>
     <?php
     exit;
 } else {
 if ($_POST["pass"] != "b3rn4t1x3r") {
   ?>
-  <div class='alert alert-warning' role='alert'>Contraseña incorrecta</div>
+  <div class='alert alert-warning' role='alert'>password incorrect</div>
   <form method="POST" action="#">
-    <input name="pass" type="password" class="form-control" placeholder="Contraseña"><br/>
-    <button class="btn btn-danger btn-lg btn-block" type="submit">Entrar</button>
+    <input name="pass" type="password" class="form-control" placeholder="password"><br/>
+    <button class="btn btn-danger btn-lg btn-block" type="submit">Get in</button>
   </form>
   <?php
 } else {
 ?>
-    <div class="text-right"><a class="btn btn-danger" href="">Salir</a></div>
-    <h2>Datos de los usuarios</h2><hr/>
+    <div class="text-right"><a class="btn btn-danger" href="">Leave</a></div>
+    <h2>User data</h2><hr/>
     <table class="table table-striped">
       <thead>
         <tr>
